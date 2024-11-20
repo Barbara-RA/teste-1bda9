@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765872907305",
+    "project_id": "teste-1bda9",
+    "storage_bucket": "teste-1bda9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765872907305:android:16c4875d7c0f9e8930e838",
+        "android_client_info": {
+          "package_name": "Test.Barbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765872907305-smbfd93jd5rt227na42k505doiufvf1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VHKyw_LL0lUivdm5mc8me__Lses4sqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765872907305-smbfd93jd5rt227na42k505doiufvf1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
